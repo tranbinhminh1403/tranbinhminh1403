@@ -4,12 +4,12 @@
 ### About Me 🚀
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things)
 
-## About Me
+<!-- ## About Me
 - 🔭 I'm currently working on [Current Project]
 - 🌱 I'm currently learning [Technology/Skill]
 - 👯 I'm looking to collaborate on [Interesting Projects]
 - 💬 Ask me about [Your Expertise]
-- ⚡ Fun fact: [Something Interesting About You]
+- ⚡ Fun fact: [Something Interesting About You] -->
 
 ## 🛠️ Skills & Technologies
 <p align="left">
@@ -22,10 +22,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tranbinhminh1403&show_icons=true&theme=radical&rank_icon=github&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tranbinhminh1403&show_icons=true&theme=ambient_gradient&rank_icon=github&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbinhminh1403&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranbinhminh1403&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ### GIF
