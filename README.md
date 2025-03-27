@@ -27,7 +27,9 @@
 </p>
 
 ### GIF
-![GIF](./gif/9uw0qxjreyqe1.gif)
+<p align="center">
+  <img src="./gif/9uw0qxjreyqe1.gif" alt="Centered GIF">
+</p>
 
 ## 📫 Connect With Me
 <p align="left">
