@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### About Me 🚀
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Always+learning+new+things)
 
+### GIF
+![GIF](./gif/9uw0qxjreyqe1.gif)
+
 ### My Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranbinhminh1403&show_icons=true&theme=radical)
 
