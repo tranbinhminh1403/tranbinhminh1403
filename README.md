@@ -7,8 +7,8 @@
 ### GIF
 ![GIF](./gif/9uw0qxjreyqe1.gif)
 
-### My Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranbinhminh1403&show_icons=true&theme=radical)
+<!-- ### My Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tranbinhminh1403&show_icons=true&theme=radical) -->
 
 ### Technologies & Tools 🛠️
 <p align="left">
